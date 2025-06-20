@@ -1,0 +1,1 @@
+find . -tybe f -o -tybe d | wc -1
